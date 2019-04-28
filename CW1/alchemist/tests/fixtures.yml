@@ -1,0 +1,85 @@
+standard_shelves:
+    upper:
+        - Y
+        - I
+        - X
+    lower:
+        - antiX
+        - antiY
+        - Z
+        - G
+answer:
+    upper:
+        - I
+    lower:
+        - Z
+        - G
+update_shelves:
+    upper:
+        - A
+        - B
+    lower:
+        - antiA
+        - C
+update_result:
+    upper:
+        - B
+    lower:
+        - C
+multiple_selection_shelves:
+    upper:
+        - antiA
+        - D
+    lower:
+        - A
+        - B
+        - A
+        - C
+        - A
+results_1:
+    upper:
+        - D
+    lower:
+        - B
+        - A
+        - C
+        - A
+
+results_2:
+    upper:
+        - D
+    lower:
+        - A
+        - B
+        - C
+        - A
+results_3:
+    upper:
+        - D
+    lower:
+        - A
+        - B
+        - A
+        - C
+
+
+random_selection_shelves:
+    upper:
+        - A
+        - D
+        - A
+    lower:
+        - antiA
+        - B
+results_4:
+    upper:
+        - A
+        - D
+    lower:
+        - B
+results_5:
+    upper:
+        - D
+        - A
+    lower:
+        - B
